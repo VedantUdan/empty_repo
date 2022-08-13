@@ -1,1 +1,1 @@
-print ("hello vedant")
+print ("vedant")
